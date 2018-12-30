@@ -1,0 +1,41 @@
+body { background: grey;
+		font-family: Tahoma;
+		background-image: url("fondo.jpg");
+		background-size: cover;
+   		background-position: center center; }
+
+table,td,th { background: rgb(200,200,200);
+				border: 1px solid black;
+				padding: 5px; }
+
+.gestiones { text-align: center; }
+
+.botonesprincipales { padding: 10px 25px; }
+
+.separador { border: 3px solid black; }
+
+.subtitulo { font-weight: bold; }
+
+.resaltado { color: green; font-weight: bold; margin-left: 20px; }
+
+.bien { color: rgb(0,135,0); }
+
+.atencion { color: rgb(200,0,0); }
+
+.nombres-azulados { font-weight: bold; color: rgb(10,50,115); }
+
+.boton-volver {  font-weight: bold; color: rgb(10,50,150); text-align: center; }
+
+.boton-bien { font-weight: bold; color: rgb(0,135,0); }
+
+.boton-atencion { font-weight: bold; color: rgb(200,0,0); }
+
+.centrado { text-align: center; }
+
+.centrado-float { text-align: center; float: left; }
+
+.autoria { text-align: right; font-size: 9pt; }	
+
+#home, .boton-coloreado { color: rgb(10,50,222); font-weight: bold; margin-left: 20px; }
+
+#busq { float: left; }
